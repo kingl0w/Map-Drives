@@ -1,6 +1,6 @@
 # Drive Mapping Scripts
 
-### These are a couple PowerShell scripts that took me 30 minutes to write to save me 30 seconds when mapping drives for users, hope it helps somebody.
+These are a couple PowerShell scripts that took me 30 minutes to write to save me 30 seconds when mapping drives for users, hope it helps somebody.
 
 This repository contains two PowerShell scripts to facilitate the mapping of network drives, either on a local system or remotely on another computer.
 
